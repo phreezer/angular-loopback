@@ -1,0 +1,17 @@
+{
+  "name": "angular-loopback",
+  "main": "angular-loopback.js",
+  "version": "0.0.1",
+  "authors": [
+    "Marcus Heath Showalter <marcus.showalter@gmail.com>"
+  ],
+  "description": "Angular module for Loopback API",
+  "moduleType": [],
+  "keywords": [
+    "Loopback",
+    "Strongloop"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
